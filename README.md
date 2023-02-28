@@ -100,30 +100,21 @@ contributors:
 
 
 
-### Team 4️⃣ - from an ... perspective
+### Team 4️⃣ - from an User perspective
 
-[ChatGPT Performance Analysis](https://docs.google.com/presentation/d/1RO21ao2n2luSvQzgsEr34ZYS9UwcjVX3Bm7GG9XMGI0/edit?usp=sharing)
-1. 모델별 성능 비교
-    1. 팩트 테스트
-    2. 수학 테스트
-2. GPT-3의 versatility
-    1. Few-shot Learning
-    2. Code Debugging
-    3. Complex Creation
-3. LLM의 미래
-    1. Multimodal
-    2. Source
-    3. Web Browsing (Live)
-    4. Context Length
+["Why ChatGPT?"](https://class101.notion.site/Why-ChatGPT-230228-e5afdbfc29854024a200e473ea2905ad)
+1. Why ChatGPT?
+    1. Analysis
+    2. Performance
+2. Future LLMs (Gen.AI)
+    1. Products
+    2. Impacts
+    3. Key Factors
 
-
-(slides in PDF... )
-
-(A summary of points discussed ... )
-
+(Presented with Notion... )
 
 contributors:
-... | ... | ... | ... | 
+김용환 | 김태형 | 이기상 | 이아담 | 
 --- | --- | --- | --- | 
 ... | ... | ... | ... | 
 
