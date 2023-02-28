@@ -114,7 +114,7 @@ contributors:
 (Presented with Notion... )
 
 contributors:
-김용환 | 김태형 | 이기상 | 이아담 | 
+[이아담](https://github.com/Abecid) | [이기상](https://github.com/bobopack) | [김용환](https://github.com/trytoYH) | [김태형](https://github.com/TaeHyungKim1114) | 
 --- | --- | --- | --- | 
-[@trytoYH](https://github.com/trytoYH) | [@TaeHyungKim1114](https://github.com/TaeHyungKim1114) | [@bobopack](https://github.com/bobopack) | [@Abecid](https://github.com/Abecid) | 
+...  | ... | ... | ... | 
 
